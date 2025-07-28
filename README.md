@@ -1,0 +1,2 @@
+While taking Andrew Ng's CS229 Machine Learning course, I decided to experiment with some of the algorithms for classification. This project looks at tumor classification by using a Random Forest classifier, \\
+a Logistic Regression classifier, and an SVM. After reporting the mean accuracies of each model, I implemented a soft voting classifier, attempting to gain marginal performance improvements.
